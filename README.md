@@ -1,4 +1,3 @@
-# thekawasaki.github.io
-My Personal website 
+# Thekawasaki's personal website
 
-
+Main Code by Vendicated | Edited by Thekawasaki
