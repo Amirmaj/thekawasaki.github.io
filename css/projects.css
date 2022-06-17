@@ -82,6 +82,11 @@
     background-color: #04aa6d;
 }
 
+.red-card {
+    background-color: var(--nord11);
+}
+
+
 .pink-card {
     background-color: var(--nord15);
 }
@@ -92,10 +97,6 @@
 
 .orange-card {
     background-color: var(--nord12);
-}
-
-.red-card {
-    background-color: var(--nord11);
 }
 
 .blue-card {
